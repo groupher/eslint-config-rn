@@ -1,6 +1,6 @@
 {
   "name": "@groupher/eslint-config-rn",
-  "version": "0.0.0-development",
+  "version": "0.1.0",
   "description": "react-native eslint config for groupher team",
   "main": "index.js",
   "scripts": {
