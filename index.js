@@ -30,6 +30,7 @@ module.exports = {
     'import/no-extraneous-dependencies': 2,
     'react-hooks/rules-of-hooks': 2,
     'react-hooks/exhaustive-deps': 2,
+    // prettier options
     'prettier/prettier': [
       'error',
       {
