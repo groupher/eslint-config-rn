@@ -7,7 +7,8 @@ module.exports = {
   settings: {
     'import/resolver': {
       node: {
-        extensions: ['.ts', '.tsx'],
+        // just tmp, rm .js when whole project use ts
+        extensions: ['.ts', '.tsx', '.js'],
       },
     },
   },
