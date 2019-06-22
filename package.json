@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-rn",
+  "version": "1.0.0",
+  "description": "react-native eslint config for groupher team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groupher/eslint-config-rn.git"
+  },
+  "keywords": [
+    "eslint",
+    "react-native"
+  ],
+  "author": "mydearxym@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/groupher/eslint-config-rn/issues"
+  },
+  "homepage": "https://github.com/groupher/eslint-config-rn#readme"
+}
