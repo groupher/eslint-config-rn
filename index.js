@@ -1,3 +1,5 @@
+// see details:
+// https://github.com/groupher/eslint-config-rn/blob/master/index.js
 module.exports = {
   extends: ['airbnb', 'plugin:prettier/recommended'],
   parser: '@typescript-eslint/parser',
