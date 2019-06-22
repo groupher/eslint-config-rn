@@ -1,15 +1,16 @@
 {
   "name": "@groupher/eslint-config-rn",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "react-native eslint config for groupher team",
   "main": "index.js",
   "scripts": {
-     "test": "eslint -c index.js tests/*.tsx",
-     "release": "semantic-release"
+    "test": "eslint -c index.js tests/*.tsx",
+    "release": "semantic-release",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/groupher/eslint-config-rn.git"
+    "url": "https://github.com/groupher/eslint-config-rn.git"
   },
   "keywords": [
     "eslint",
